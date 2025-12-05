@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "イエロウ",
+  "base_artist": "NOMELON NOLEMON",
+  "createdAt": "2025-12-05T13:38:20.481780Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "イエロウ",
+      "artist": "Syrup16g",
+      "has_synced": false,
+      "path": "select/01_イエロウ_Syrup16g.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "イエロウ",
+      "artist": "NOMELON NOLEMON",
+      "has_synced": false,
+      "path": "select/02_イエロウ_NOMELON_NOLEMON.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "イエロウ",
+      "artist": "NOMELON NOLEMON",
+      "has_synced": false,
+      "path": "select/pl_01_イエロウ_NOMELON_NOLEMON.txt"
+    }
+  ]
+}
